@@ -26,9 +26,6 @@ I am actively expanding my predictive modeling and statistical toolset. You can 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-![Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souza11&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/guilherme-souza-da-cruz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
