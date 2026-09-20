@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Souza (Guilherme Souza da Cruz)
 
-**Data Analyst | Aspiring Data Scientist | Geospatial Analytics Specialist**
+**Data Analyst | Aspiring Data Scientist
 
-I am a data professional deeply passionate about logic, algorithms, and solving complex problems. I thrive in "0-to-1" environments—building data-driven tools and machine learning models from scratch to drive massive business impact. 
+I am a data professional deeply passionate about logic, algorithms, and solving complex problems. 
 
-Currently, I work at Santander Brazil, where I have engineered geospatial allocation models for over 500K clients and identified over R$ 200MM in business growth potential.
+Currently, I work at Santander Brazil, where I have engineered geospatial allocation models for the entire Brazilian territory, serving more than 1M Clients.
 
 ### 🔭 Current Focus & Learning Journey
 I am actively expanding my predictive modeling and statistical toolset. You can track my daily progress and code implementations in my repositories, where I am currently working through:
-- 📊 **[The Data Science Course: Complete Data Science Bootcamp 2026](#)** *(Add your repo link here)*
 - 🤖 **[Python for Data Science and Machine Learning Bootcamp](#)** *(Add your repo link here)*
 
 ### 🧠 Core Competencies
